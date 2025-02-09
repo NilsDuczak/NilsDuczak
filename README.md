@@ -1,7 +1,7 @@
-<h1>Hello World! 👋, I'm Nils</h1>
-<p>🖥️ Software Enthusiast & Developer in Training </p>
+<h1>Hello World!, I'm Nils Duczak 👋</h1>
+<p>🖥️ Future Developer with a Love for Technology </p>
 <p>🪴 Im currently learning React JS, Node JS </p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 Tech Stack I Use</h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
