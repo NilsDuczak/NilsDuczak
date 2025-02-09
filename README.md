@@ -1,6 +1,6 @@
 <h1>< Hello World! , I'm Nils Duczak />👋</h1>
 <p>🖥️ Future Developer with a Love for Technology </p>
-<p>🪴 Im currently learning React JS, Node JS </p>
+<p>🪴 Currently, I am focusing on learning React JS and Node JS </p>
 <h2>🚀 Technologies I Work With </h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
