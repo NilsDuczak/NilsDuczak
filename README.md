@@ -1,4 +1,4 @@
-<h1>Hello World!, I'm Nils Duczak 👋</h1>
+<h1>< Hello World! , I'm Nils Duczak />👋</h1>
 <p>🖥️ Future Developer with a Love for Technology </p>
 <p>🪴 Im currently learning React JS, Node JS </p>
 <h2>🚀 Tech Stack I Use</h2>
